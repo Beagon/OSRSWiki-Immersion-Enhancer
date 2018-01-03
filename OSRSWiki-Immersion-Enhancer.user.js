@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name    OldSchool Runescape Wiki Immersion Enhancer
-// @version 1.0.0
+// @version 1.0.1
 // @author  2018, Beagon (https://openuserjs.org/users/Beagon)
 // @license GPL-3.0
 // @copyright 2018, Beagon (https://github.com/thunderofnl)
